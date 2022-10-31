@@ -1,18 +1,20 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<img align="right" alt="Coding" width="400" src="https://www.vecteezy.com/vector-art/5868034-freelance-working-modern-flat-concept-for-web-banner-design-male-developer-programs-and-works-with-code-on-laptop-while-sitting-on-bench-in-park-vector-illustration-with-isolated-people-scene">
+<h3 align="center">I'm a self taught Front-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhamza00&label=Profile%20views&color=0e75b6&style=flat" alt="amirhamza00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhamza00" alt="amirhamza00" /></a> </p>
+- 🌱 I’m currently learning **React Native**
+
+- 👯 I’m looking to collaborate on **React Projects**
+
+- 💬 Ask me about **React JS, Next JS**
 
 - 📫 How to reach me **amirhamza.al33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amir-hamza-5420b8225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hamza-5420b8225" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amirhamza00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amirhamza00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
