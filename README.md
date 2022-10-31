@@ -1,8 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
+<img align="right" alt="Coding" width="400" src="https://www.vecteezy.com/vector-art/5868034-freelance-working-modern-flat-concept-for-web-banner-design-male-developer-programs-and-works-with-code-on-laptop-while-sitting-on-bench-in-park-vector-illustration-with-isolated-people-scene">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhamza00&label=Profile%20views&color=0e75b6&style=flat" alt="amirhamza00" /> </p>
 
